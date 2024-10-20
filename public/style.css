@@ -1,0 +1,13 @@
+/* style.css */
+body {
+    font-family: 'Arial', sans-serif;
+}
+
+.jumbotron {
+    background-color: #f8f9fa;
+}
+
+.card {
+    border: none;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
